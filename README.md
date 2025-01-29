@@ -1,6 +1,33 @@
 # 💫 About Me:
 Team Oreo is a globally recognized IT Services and Consultancy firm headquartered in London. We specialize in delivering innovative, scalable, and high-quality technology solutions to businesses worldwide. Our expertise spans web development, mobile application development, and a wide range of cutting-edge IT services tailored to meet the unique needs of our clients.<br><br>With a passion for technology and a commitment to excellence, we empower businesses to thrive in the digital age. Our team of skilled professionals is dedicated to crafting seamless, user-centric solutions that drive growth, efficiency, and success.
 
+Our Expertise
+Web Development: Custom websites, e-commerce platforms, and web applications.
+
+Mobile Application Development: iOS, Android, and cross-platform apps.
+
+UI/UX Design: Intuitive and engaging user experiences.
+
+Cloud Solutions: Scalable and secure cloud-based services.
+
+IT Consultancy: Strategic guidance to optimize your digital transformation.
+
+Emerging Technologies: AI, IoT, and blockchain integration.
+
+Why Choose Team Oreo?
+Global Reach, Local Expertise: Based in London, serving clients worldwide.
+
+Innovation-Driven: We stay ahead of the curve with the latest technologies.
+
+Client-Centric Approach: Tailored solutions to meet your specific goals.
+
+Proven Track Record: Trusted by businesses across industries.
+
+Collaborative Partnership: We work closely with you to ensure success.
+
+Our Mission
+To deliver transformative IT solutions that empower businesses to achieve their full potential in an ever-evolving digital landscape.
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/teamoreouk) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/teamoreouk/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/company/teamoreoo/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://uk.pinterest.com/teamoreouk/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@teamoreoukltd) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@TeamOreoUK) 
